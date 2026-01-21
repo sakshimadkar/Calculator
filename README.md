@@ -17,4 +17,12 @@ This project allows users to perform basic arithmetic operations like addition, 
 - CSS – Styling and layout.
 - JavaScript – Logic for calculation operations.
 
-t
+// Example operations
+1 + 2 = 3
+7 * 8 = 56
+9 / 3 = 3
+
+
+
+
+Improve styling and animations
